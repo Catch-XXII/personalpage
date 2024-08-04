@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "Software Tester",
+    title: "Senior Software Tester",
     company: "Fiverr (freelance)",
     duration: "(Jun 2021 - Jan 2022)"
   },
